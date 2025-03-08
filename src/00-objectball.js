@@ -188,11 +188,11 @@ function bigShoeRebounds() {
   return rebounds;
 }
 
-// Example tests
-console.log(numPointsScored("Ben Gordon")); // Logs 33
-console.log(shoeSize("Jason Terry")); // Logs 15
-console.log(teamColors("Brooklyn Nets")); // Logs ["Black", "White"]
-console.log(teamNames()); // Logs ["Brooklyn Nets", "Charlotte Hornets"]
-console.log(playerNumbers("Charlotte Hornets")); // Logs [4, 0, 2, 8, 33]
-console.log(playerStats("DeSagna Diop")); // Logs his stats object
-console.log(bigShoeRebounds()); // Logs rebounds of player with biggest shoe size
+
+console.log(numPointsScored("Ben Gordon")); 
+console.log(shoeSize("Jason Terry")); 
+console.log(teamColors("Brooklyn Nets")); 
+console.log(teamNames()); 
+console.log(playerNumbers("Charlotte Hornets")); 
+console.log(playerStats("DeSagna Diop"));
+console.log(bigShoeRebounds()); 
